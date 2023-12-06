@@ -79,7 +79,7 @@
             transform: translate(-50%, -50%); /* Menyesuaikan posisi agar berada di tengah */
             color:greenyellow; /* Warna tulisan putih */
             text-shadow: 2px 2px 2px #000, -2px -2px 2px #000, 2px -2px 2px #000, -2px 2px 2px #000; /* Efek bayangan hitam */
-            font-size: 75px; /* Ukuran teks */
+            font-size: 50px; /* Ukuran teks */
             border: white;
             border-color: #4caf50;
             border-style: double;
