@@ -168,7 +168,7 @@
     <input type="text" id="Masukkan Nama" placeholder="Ex: Rifqi Cahyono">
 
     <label for="Masukkan Nomor WhatsApp">Masukkan Nomor WhatsApp:</label>
-    <input type="text" id="Masukkan Nomor WhatsApp" placeholder="Ex: 89514632811">
+    <input type="text" id="Masukkan Nomor WhatsApp" placeholder="Ex: 089514632811">
 
     <button onclick="showResult()">Submit</button>
 </div>
