@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -79,7 +80,7 @@
             transform: translate(-50%, -50%); /* Menyesuaikan posisi agar berada di tengah */
             color:greenyellow; /* Warna tulisan putih */
             text-shadow: 2px 2px 2px #000, -2px -2px 2px #000, 2px -2px 2px #000, -2px 2px 2px #000; /* Efek bayangan hitam */
-            font-size: 50px; /* Ukuran teks */
+            font-size: 75px; /* Ukuran teks */
             border: white;
             border-color: #4caf50;
             border-style: double;
@@ -117,17 +118,17 @@
                 return div[0];
             case 85695767229:
             case 85807453955:
-            case 881026082884:
+            case 85772480197:
                 return div[6];
             case 85817564214:
                 return div[1];
             case 82131259160:
             case 8113666018:
                 return div[7];
-            case 85772480197:
+            case 82179366767:
                 return div[3];
             case 85708779694:
-            case 82179366767:
+            case 881026082884:
             case 81931634187:
                 return div[9];
             case 82268479930:
@@ -168,7 +169,7 @@
     <input type="text" id="Masukkan Nama" placeholder="Ex: Rifqi Cahyono">
 
     <label for="Masukkan Nomor WhatsApp">Masukkan Nomor WhatsApp:</label>
-    <input type="text" id="Masukkan Nomor WhatsApp" placeholder="Ex: 089514632811">
+    <input type="text" id="Masukkan Nomor WhatsApp" placeholder="Ex: 89514632811">
 
     <button onclick="showResult()">Submit</button>
 </div>
